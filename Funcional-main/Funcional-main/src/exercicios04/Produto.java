@@ -1,0 +1,4 @@
+package exercicios04;
+
+public record Produto(String nome, double preco, String categoria, int avaliacao, boolean emEstoque) {
+}

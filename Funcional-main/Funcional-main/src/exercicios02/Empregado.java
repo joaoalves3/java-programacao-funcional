@@ -1,0 +1,4 @@
+package exercicios02;
+
+public record Empregado(String nome, double salarioAtual, int anosExperiencia) {
+}
