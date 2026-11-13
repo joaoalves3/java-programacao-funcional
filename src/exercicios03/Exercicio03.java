@@ -1,4 +1,4 @@
-package exercicis03;
+package exercicios03;
 
 import java.util.Arrays;
 import java.util.List;

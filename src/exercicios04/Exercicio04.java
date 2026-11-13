@@ -9,7 +9,6 @@ import java.util.Map;
 import java.util.function.Predicate;
 import java.util.stream.Collectors;
 
-import static java.util.Locale.filter;
 
 public class Exercicio04 {
     static void main() {
